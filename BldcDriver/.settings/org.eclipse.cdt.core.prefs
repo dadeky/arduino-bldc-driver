@@ -205,13 +205,13 @@ environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.AR.PAT
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.AR.PATTERN/value="${A.COMPILER.PATH}${A.COMPILER.AR.CMD}" ${A.COMPILER.AR.FLAGS} ${A.COMPILER.AR.EXTRA_FLAGS} "${A.ARCHIVE_FILE_PATH}" "${A.OBJECT_FILE}"
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.1/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.1/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.1/value="D\:\\eclipse_oxygen\\eclipse\\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -Wall -Wextra -Os -g -flto -fuse-linker-plugin -Wl,--gc-sections -mmcu\=atmega328p -o "D\:/workspaces/arduino_workspace_oxy/BldcDriver/Release/BldcDriver.elf" 
+environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.1/value="D\:\\eclipse_oxygen\\eclipse\\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -Wall -Wextra -Os -g -flto -fuse-linker-plugin -Wl,--gc-sections -mmcu\=atmega328p -o "D\:/git/arduino-bldc-driver/BldcDriver/Release/BldcDriver.elf" 
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.2/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.2/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.2/value=\ 
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.3/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.3/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.3/value=\ "-LD\:/workspaces/arduino_workspace_oxy/BldcDriver/Release" -lm
+environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN.3/value=\ "-LD\:/git/arduino-bldc-driver/BldcDriver/Release" -lm
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.C.COMBINE.PATTERN/value="${A.COMPILER.PATH}${A.COMPILER.C.ELF.CMD}" ${A.COMPILER.C.ELF.FLAGS} -mmcu\=${A.BUILD.MCU} ${A.COMPILER.C.ELF.EXTRA_FLAGS} -o "${A.BUILD.PATH}/${A.BUILD.PROJECT_NAME}.elf" ${A.OBJECT_FILES} "${A.BUILD.PATH}/${A.ARCHIVE_FILE}" "-L${A.BUILD.PATH}" -lm
@@ -241,13 +241,13 @@ environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.CPP.O.
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.CPP.O.PATTERN/value="${A.COMPILER.PATH}${A.COMPILER.CPP.CMD}" ${A.COMPILER.CPP.FLAGS} -mmcu\=${A.BUILD.MCU} -DF_CPU\=${A.BUILD.F_CPU} -DARDUINO\=${A.RUNTIME.IDE.VERSION} -DARDUINO_${A.BUILD.BOARD} -DARDUINO_ARCH_${A.BUILD.ARCH} ${A.COMPILER.CPP.EXTRA_FLAGS} ${A.BUILD.EXTRA_FLAGS} ${A.INCLUDES} "${A.SOURCE_FILE}" -o "${A.OBJECT_FILE}"
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.EEP.PATTERN.1/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.EEP.PATTERN.1/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.EEP.PATTERN.1/value="D\:\\eclipse_oxygen\\eclipse\\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-objcopy" -O ihex -j .eeprom --set-section-flags\=.eeprom\=alloc,load --no-change-warnings --change-section-lma .eeprom\=0 "D\:/workspaces/arduino_workspace_oxy/BldcDriver/Release/BldcDriver.elf" "D\:/workspaces/arduino_workspace_oxy/BldcDriver/Release/BldcDriver.eep"
+environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.EEP.PATTERN.1/value="D\:\\eclipse_oxygen\\eclipse\\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-objcopy" -O ihex -j .eeprom --set-section-flags\=.eeprom\=alloc,load --no-change-warnings --change-section-lma .eeprom\=0 "D\:/git/arduino-bldc-driver/BldcDriver/Release/BldcDriver.elf" "D\:/git/arduino-bldc-driver/BldcDriver/Release/BldcDriver.eep"
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.EEP.PATTERN/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.EEP.PATTERN/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.EEP.PATTERN/value="${A.COMPILER.PATH}${A.COMPILER.OBJCOPY.CMD}" ${A.COMPILER.OBJCOPY.EEP.FLAGS} ${A.COMPILER.OBJCOPY.EEP.EXTRA_FLAGS} "${A.BUILD.PATH}/${A.BUILD.PROJECT_NAME}.elf" "${A.BUILD.PATH}/${A.BUILD.PROJECT_NAME}.eep"
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.HEX.PATTERN.1/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.HEX.PATTERN.1/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.HEX.PATTERN.1/value="D\:\\eclipse_oxygen\\eclipse\\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-objcopy" -O ihex -R .eeprom "D\:/workspaces/arduino_workspace_oxy/BldcDriver/Release/BldcDriver.elf" "D\:/workspaces/arduino_workspace_oxy/BldcDriver/Release/BldcDriver.hex"
+environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.HEX.PATTERN.1/value="D\:\\eclipse_oxygen\\eclipse\\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-objcopy" -O ihex -R .eeprom "D\:/git/arduino-bldc-driver/BldcDriver/Release/BldcDriver.elf" "D\:/git/arduino-bldc-driver/BldcDriver/Release/BldcDriver.hex"
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.HEX.PATTERN/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.HEX.PATTERN/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.OBJCOPY.HEX.PATTERN/value="${A.COMPILER.PATH}${A.COMPILER.ELF2HEX.CMD}" ${A.COMPILER.ELF2HEX.FLAGS} ${A.COMPILER.ELF2HEX.EXTRA_FLAGS} "${A.BUILD.PATH}/${A.BUILD.PROJECT_NAME}.elf" "${A.BUILD.PATH}/${A.BUILD.PROJECT_NAME}.hex"
@@ -277,7 +277,7 @@ environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.S.O.PA
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.S.O.PATTERN/value="${A.COMPILER.PATH}${A.COMPILER.C.CMD}" ${A.COMPILER.S.FLAGS} -mmcu\=${A.BUILD.MCU} -DF_CPU\=${A.BUILD.F_CPU} -DARDUINO\=${A.RUNTIME.IDE.VERSION} -DARDUINO_${A.BUILD.BOARD} -DARDUINO_ARCH_${A.BUILD.ARCH} ${A.COMPILER.S.EXTRA_FLAGS} ${A.BUILD.EXTRA_FLAGS} ${A.INCLUDES} "${A.SOURCE_FILE}" -o "${A.OBJECT_FILE}"
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.SIZE.PATTERN.1/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.SIZE.PATTERN.1/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.SIZE.PATTERN.1/value="D\:\\eclipse_oxygen\\eclipse\\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-size" -A "D\:/workspaces/arduino_workspace_oxy/BldcDriver/Release/BldcDriver.elf"
+environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.SIZE.PATTERN.1/value="D\:\\eclipse_oxygen\\eclipse\\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-size" -A "D\:/git/arduino-bldc-driver/BldcDriver/Release/BldcDriver.elf"
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.SIZE.PATTERN/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.SIZE.PATTERN/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1226624946/A.RECIPE.SIZE.PATTERN/value="${A.COMPILER.PATH}${A.COMPILER.SIZE.CMD}" -A "${A.BUILD.PATH}/${A.BUILD.PROJECT_NAME}.elf"

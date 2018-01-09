@@ -26,7 +26,7 @@ int it2=1;
 static int delta= 0;
 static int Lastdelta= -1;
 
-unsigned long previousMillis = 0;
+unsigned long previousMicros = 0;
 
 void setup() {
 	Serial.begin(250000);
@@ -57,12 +57,12 @@ void loop() {
 	int emC = analogRead(emfC);
 	int sum = (emA+emB+emC)/3;
 
-	unsigned long currentMillis = micros();
+	unsigned long currentMicros = micros();
 
 
-	if(currentMillis - previousMillis >= Delay){
+	if(currentMicros - previousMicros >= Delay){
 
-		previousMillis += Delay;
+		previousMicros += Delay;
 
 		//Phase1 C-B
 		switch(fase){
