@@ -82,7 +82,7 @@ BldcDriver.elf: $(LINK_OBJ) $(AR)
 	@echo ' '
 
 BldcDriver.hex: $(ELF)
-	@echo 'Create eeprom image'
+	@echo 'Do all objcopy commands'
 	${A.RECIPE.OBJCOPY.EEP.PATTERN}
 	${A.RECIPE.OBJCOPY.HEX.PATTERN}
 	@echo 'Finished building: $@'
@@ -94,6 +94,5 @@ clean:
 	-@echo ' '
 
 .PHONY: all clean dependents
-.SECONDARY:
 
 -include ..\makefile.targets
