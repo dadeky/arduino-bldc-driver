@@ -4,35 +4,35 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\CDC.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial0.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial1.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial2.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial3.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\IPAddress.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\PluggableUSB.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\Print.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\Stream.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\Tone.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\USBCore.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\WMath.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\WString.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\abi.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\main.cpp \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\new.cpp 
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\CDC.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial0.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial1.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial2.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial3.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\IPAddress.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\PluggableUSB.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\Print.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\Stream.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\Tone.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\USBCore.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\WMath.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\WString.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\abi.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\main.cpp \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\new.cpp 
 
 S_UPPER_SRCS += \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_pulse.S 
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_pulse.S 
 
 C_SRCS += \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\WInterrupts.c \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\hooks.c \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring.c \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_analog.c \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_digital.c \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_pulse.c \
-D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_shift.c 
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\WInterrupts.c \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\hooks.c \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring.c \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_analog.c \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_digital.c \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_pulse.c \
+D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_shift.c 
 
 C_DEPS += \
 .\core\core\WInterrupts.c.d \
@@ -94,178 +94,178 @@ CPP_DEPS += \
 
 
 # Each subdirectory must supply rules for building sources it contributes
-core\core\CDC.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\CDC.cpp
+core\core\CDC.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\CDC.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\HardwareSerial.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial.cpp
+core\core\HardwareSerial.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\HardwareSerial0.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial0.cpp
+core\core\HardwareSerial0.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial0.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\HardwareSerial1.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial1.cpp
+core\core\HardwareSerial1.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial1.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\HardwareSerial2.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial2.cpp
+core\core\HardwareSerial2.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial2.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\HardwareSerial3.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\HardwareSerial3.cpp
+core\core\HardwareSerial3.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\HardwareSerial3.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\IPAddress.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\IPAddress.cpp
+core\core\IPAddress.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\IPAddress.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\PluggableUSB.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\PluggableUSB.cpp
+core\core\PluggableUSB.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\PluggableUSB.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\Print.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\Print.cpp
+core\core\Print.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\Print.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\Stream.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\Stream.cpp
+core\core\Stream.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\Stream.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\Tone.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\Tone.cpp
+core\core\Tone.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\Tone.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\USBCore.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\USBCore.cpp
+core\core\USBCore.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\USBCore.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\WInterrupts.c.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\WInterrupts.c
+core\core\WInterrupts.c.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\WInterrupts.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\WMath.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\WMath.cpp
+core\core\WMath.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\WMath.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\WString.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\WString.cpp
+core\core\WString.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\WString.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\abi.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\abi.cpp
+core\core\abi.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\abi.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\hooks.c.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\hooks.c
+core\core\hooks.c.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\hooks.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\main.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\main.cpp
+core\core\main.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\main.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\new.cpp.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\new.cpp
+core\core\new.cpp.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\new.cpp
 	@echo 'Building file: $<'
 	@echo 'Starting C++ compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-g++" -c -g -Os -Wall -Wextra -std=gnu++11 -fpermissive -fno-exceptions -ffunction-sections -fdata-sections -fno-threadsafe-statics -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 -x c++ "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\wiring.c.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring.c
+core\core\wiring.c.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\wiring_analog.c.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_analog.c
+core\core\wiring_analog.c.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_analog.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\wiring_digital.c.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_digital.c
+core\core\wiring_digital.c.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_digital.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\wiring_pulse.S.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_pulse.S
+core\core\wiring_pulse.S.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_pulse.S
 	@echo 'Building file: $<'
 	@echo 'Starting S compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -x assembler-with-cpp -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)"  "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -x assembler-with-cpp -flto -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@"  "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\wiring_pulse.c.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_pulse.c
+core\core\wiring_pulse.c.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_pulse.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
-core\core\wiring_shift.c.o: D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino\wiring_shift.c
+core\core\wiring_shift.c.o: D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino\wiring_shift.c
 	@echo 'Building file: $<'
 	@echo 'Starting C compile'
-	"D:\eclipse_oxygen\eclipse\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\cores\arduino" -I"D:\eclipse_oxygen\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.6.20\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
+	"D:\eclipse_photon\/arduinoPlugin/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/bin/avr-gcc" -c -g -Os -Wall -Wextra -std=gnu11 -ffunction-sections -fdata-sections -flto -fno-fat-lto-objects -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=10802 -DARDUINO_AVR_NANO -DARDUINO_ARCH_AVR   -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\cores\arduino" -I"D:\eclipse_photon\arduinoPlugin\packages\arduino\hardware\avr\1.6.21\variants\eightanaloginputs" -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -D__IN_ECLIPSE__=1 "$<"  -o  "$@"
 	@echo 'Finished building: $<'
 	@echo ' '
 
